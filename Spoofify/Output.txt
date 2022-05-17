@@ -1,0 +1,475 @@
+[
+
+Collection Title: Joe Rogan Podcast Playlist
+List of Content: [
+---------------------------
+Content title: Episode 2
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Episode 3
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Episode 1
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 3
+---------------------------
+]
+, 
+
+Collection Title: Pop Hits
+List of Content: [
+---------------------------
+Content title: Blinding Lights
+Genre types: [Pop]
+Artist: 
+Account name: The Weekend
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Ghost
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Stay
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: Peaches
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Save Your Tears
+Genre types: [Pop]
+Artist: 
+Account name: The Weekend
+Creator: true
+Amount Played: 6
+---------------------------
+]
+, 
+
+Collection Title: Rock Hits
+List of Content: [
+---------------------------
+Content title: Final Countdown
+Genre types: [80's Rock]
+Artist: 
+Account name: Europe
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Hurrican
+Genre types: [80's Rock]
+Artist: 
+Account name: Scorpian
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Thunderstruck
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Don't Stop Beleiving
+Genre types: [80's Rock]
+Artist: 
+Account name: Journey
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: Don't Stop Beleiving
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Black in Black
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 8
+---------------------------
+]
+, 
+
+Collection Title: Unorthodox Jukebox Album
+List of Content: [
+---------------------------
+Content title: Locked out of Heaven
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Treasure
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: When I Was Your Man
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Show Me
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: If I Knew
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Money Make Her Smile
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 6
+---------------------------
+, 
+---------------------------
+Content title: Natalie
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 7
+---------------------------
+, 
+---------------------------
+Content title: Moonshine
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 8
+---------------------------
+, 
+---------------------------
+Content title: Gorilla
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 9
+---------------------------
+, 
+---------------------------
+Content title: Young Girls
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 10
+---------------------------
+]
+]
+[
+
+Collection Title: Joe Rogan Podcast Playlist
+List of Content: [
+---------------------------
+Content title: episode 4
+Genre types: []
+Artist: 
+Account name: Joe Rogen
+Creator: true
+Amount Played: 0
+---------------------------
+, 
+---------------------------
+Content title: Episode 2
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Episode 3
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Episode 1
+Genre types: [Podcast]
+Artist: 
+Account name: Joe Rogan
+Creator: true
+Amount Played: 3
+---------------------------
+]
+, 
+
+Collection Title: Pop Hits
+List of Content: [
+---------------------------
+Content title: Blinding Lights
+Genre types: [Pop]
+Artist: 
+Account name: The Weekend
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Ghost
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Stay
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: Peaches
+Genre types: [Pop]
+Artist: 
+Account name: Justin Bieber
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Save Your Tears
+Genre types: [Pop]
+Artist: 
+Account name: The Weekend
+Creator: true
+Amount Played: 6
+---------------------------
+]
+, 
+
+Collection Title: Rock Hits
+List of Content: [
+---------------------------
+Content title: Final Countdown
+Genre types: [80's Rock]
+Artist: 
+Account name: Europe
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Hurrican
+Genre types: [80's Rock]
+Artist: 
+Account name: Scorpian
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: Thunderstruck
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Don't Stop Beleiving
+Genre types: [80's Rock]
+Artist: 
+Account name: Journey
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: Don't Stop Beleiving
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Black in Black
+Genre types: [80's Rock]
+Artist: 
+Account name: AC/DC
+Creator: true
+Amount Played: 8
+---------------------------
+]
+, 
+
+Collection Title: Unorthodox Jukebox Album
+List of Content: [
+---------------------------
+Content title: Locked out of Heaven
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 1
+---------------------------
+, 
+---------------------------
+Content title: Treasure
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 2
+---------------------------
+, 
+---------------------------
+Content title: When I Was Your Man
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 3
+---------------------------
+, 
+---------------------------
+Content title: Show Me
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 4
+---------------------------
+, 
+---------------------------
+Content title: If I Knew
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 5
+---------------------------
+, 
+---------------------------
+Content title: Money Make Her Smile
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 6
+---------------------------
+, 
+---------------------------
+Content title: Natalie
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 7
+---------------------------
+, 
+---------------------------
+Content title: Moonshine
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 8
+---------------------------
+, 
+---------------------------
+Content title: Gorilla
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 9
+---------------------------
+, 
+---------------------------
+Content title: Young Girls
+Genre types: [Pop]
+Artist: 
+Account name: Bruno Mars
+Creator: true
+Amount Played: 10
+---------------------------
+]
+]
